@@ -1,4 +1,4 @@
-# Heart Disease Prediction Script
+# Heart Disease Prediction Script - Machine Learning Integration 
 
 ## Purpose
 This Python script aims to predict the presence of heart disease in individuals based on various health-related features. It utilizes the K-nearest neighbors (KNN) classification algorithm to make predictions.
