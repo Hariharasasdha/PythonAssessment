@@ -33,6 +33,7 @@ accuracy = accuracy_score(y_test, y_pred)
 report = classification_report(y_test, y_pred)
 
 # Print the results
+
 print(f"Accuracy: {accuracy:.2f}")
 print("\nClassification Report:")
 print(report)
